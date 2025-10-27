@@ -11,10 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-- **Node.js** (version 16 ou supérieure)
-- **npm** ou **yarn**
-- **MongoDB** (local ou cloud MongoDB Atlas)
-- **Git**
+A définir
 
 ```
 
@@ -36,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
